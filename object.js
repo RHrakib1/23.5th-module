@@ -6,7 +6,10 @@ const students={
     // array
     friends:['rifat','raju', 'sahed', 'sumon'],
     // array er vitor obj 
-    player:[{name:'shakib', age:37}, {name:'masrafi', age:38}],
+    player:[
+        {name:'shakib', age:37}, 
+        {name:'masrafi', age:38}
+    ],
     // function 
     tarin:function(){},
     // obj....obj er vitor o obj deoya jai 
